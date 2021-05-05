@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099114916495",
+    "project_id": "project-7f47d",
+    "storage_bucket": "project-7f47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099114916495:android:8db7e42271723f79da9efa",
+        "android_client_info": {
+          "package_name": "com.example.keyboardstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099114916495-plth3n1vqm2adoh9248b02qac8b8tsov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-aeMwSs7hdTMWaq4sF--4yqqG1wnAIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099114916495-plth3n1vqm2adoh9248b02qac8b8tsov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
